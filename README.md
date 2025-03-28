@@ -10,3 +10,4 @@
 
 `ptyhon test.py`
 
+이리날아오너라
