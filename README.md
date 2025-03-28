@@ -8,6 +8,6 @@
 
 # 나비야 나비야
 
-`ptyhon test.py`
+`python test.py`
 
 이리날아오너라
